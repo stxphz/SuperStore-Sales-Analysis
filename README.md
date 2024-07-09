@@ -11,7 +11,7 @@ The primary objective of this project is to perform a comprehensive analysis usi
 > - Evaluate overall sales and profit trends over time.
 > - Identify top-performing products and categories.
 
-2. Geographic Analysis:
+<code>2. Geographic Analysis:</code>
 > - Assess sales performance across different states.
 > - Identify high-performing and low-performing states.
 > - Analyze regional preferences for specific products or categories.
