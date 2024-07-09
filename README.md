@@ -7,6 +7,12 @@ Tableau Dashboard: https://public.tableau.com/app/profile/stephanie7878/viz/Supe
 ## Project Description
 The primary objective of this project is to perform a comprehensive analysis using a dataset from a Global Retail Corporation to gain insights into the sales performance, customer demographics, and operational efficiency of the store. This dataset contains detailed information about the store's transactions, including sales, profit, discounts, customer segments, product categories, and more. By analyzing this data, the aim is to identify patterns, trends, and opportunities for improving business performance and customer satisfaction. 
 
+## Visualization and Reporting
+Create interactive dashboards and visualizations to present insights. Generate detailed reports summarizing key findings and recommendations.
+
+
+_______
+
 <code> Sales Performance Analysis: </code>
 > - Evaluate overall sales, profit, and loss trends over time.
 > - Identify top-performing products and categories.
@@ -22,5 +28,3 @@ The primary objective of this project is to perform a comprehensive analysis usi
 > - Identify key customer segments contributing to sales and profit. *
 
 
-## Visualization and Reporting
-Create interactive dashboards and visualizations to present insights. Generate detailed reports summarizing key findings and recommendations.
