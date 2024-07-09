@@ -11,20 +11,6 @@ The primary objective of this project is to perform a comprehensive analysis usi
 Create interactive dashboards and visualizations to present insights. Generate detailed reports summarizing key findings and recommendations.
 
 
-_______
 
-<code> Sales Performance Analysis: </code>
-> - Evaluate overall sales, profit, and loss trends over time.
-> - Identify top-performing products and categories.
-> - Identify overall return of products and categories.
-
-<code> Geographic Analysis: </code>
-> - Assess sales performance across different states.
-> - Identify high-performing and low-performing states.
-> - Analyze regional preferences for specific products or categories. *
-
-<code> Customer Segmentation: </code>
-> - Segment customers based on purchasing behavior and demographics.
-> - Identify key customer segments contributing to sales and profit. *
 
 
